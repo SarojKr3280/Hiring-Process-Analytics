@@ -16,7 +16,6 @@ My job is to analyze the provided data and answer certain questions that can hel
 <b>Data Summary:</b> After cleaning and preparing your data, summarize your findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
 <br>
 <h3>Data Analytics Tasks:</h3>
-After downloading the dataset, use Excel to answer the below questions:
 <b>A. Hiring Analysis:</b> The hiring process involves bringing new individuals into the organization for various roles.
 
 Task: Determine the gender distribution of hires. How many males and females have been hired by the company?

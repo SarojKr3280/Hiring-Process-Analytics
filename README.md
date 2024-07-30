@@ -4,18 +4,18 @@ The hiring process is a crucial function of any company, and understanding trend
 My job is to analyze the provided data and answer certain questions that can help the company improve its hiring process.
 Here's what I'll be doing:
 <br>
-Handling Missing Data: Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
+<b>Handling Missing Data:</b> Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
 <br>
-Clubbing Columns: If there are columns with multiple categories that can be combined, do so to simplify your analysis.
+<b>Clubbing Columns:</b>If there are columns with multiple categories that can be combined, do so to simplify your analysis.
 <br>
-Outlier Detection: Check for outliers in the dataset that may skew your analysis.
+<b>Outlier Detection:</b>Check for outliers in the dataset that may skew your analysis.
 <br>
-Removing Outliers: Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
+<b>Removing Outliers:</b>Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
 <br>
 
-Data Summary: After cleaning and preparing your data, summarize your findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
+<b>Data Summary:</b> After cleaning and preparing your data, summarize your findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
 <br>
-Data Analytics Tasks:
+<h4>Data Analytics Tasks:</h4>
 After downloading the dataset, use Excel to answer the below questions:
 A. Hiring Analysis: The hiring process involves bringing new individuals into the organization for various roles.
 

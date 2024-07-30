@@ -4,7 +4,6 @@ The hiring process is a crucial function of any company, and understanding trend
 My job is to analyze the provided data and answer certain questions that can help the company improve its hiring process.
 <br>
 <h4>Here's what I'll be doing:</h4>
-<br>
 <b>Handling Missing Data:</b> Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
 <br>
 <b>Clubbing Columns:</b> If there are columns with multiple categories that can be combined, do so to simplify your analysis.
